@@ -1,4 +1,10 @@
-# **DS200 – Lab 2 Summary (≈500 Words)**  
+# **DS200 – Lab 2**  
+<p align="center" style="background-color: white; padding: 10px;">
+  <a href="https://www.uit.edu.vn" target="_blank">
+    <img src="media/uit.png" alt="VNUHCM - UIT Logo" style="background-color: white;">
+  </a>
+</p>
+
 ### **Lecture:** Nguyen Hieu Nghia  
 ### **Student:** Nguyen Vo Tien Loc – 22520792  
 
@@ -21,7 +27,48 @@ Question 5: Analyze Ratings by Occupation of Users
 
 Question 6: Analyze Ratings by Time
 
-## **Conclusion**
+## **Guidance**
+
+This github repository can be read by branch. Branch name bai1, bai2, bai3, bai4, bai5, bai6 stand for 6 questions in the lab. For each branch I setup Question*.ipynb for the solution.
+```
+git clone https://github.com/iseT1enLoc/LAB2_BIGDATA.git
+```
+
+Create virtual environment
+```
+python -m venv .venv
+```
+
+Enter the virtual environment:
+```
+source .venv/bin/activate
+```
+
+Install required package
+```
+pip install -r requirements.txt
+```
+
+If check the lab in local, please checkout to coresponding branch for verification:
+```
+// Branch name: bai1, bai2, bai3, bai4, bai5, bai6
+git checkout bai1
+```
+## **Dataset**
+Please adding data folder by contacting me via email locnvt.it@gmail.com.
+Expected folder structure for each branch:
+
+# Folder structure:
+```
+LAB2_BIGDATA/
+├── .gitignore
+├── .venv/
+├── data/ #data files is store here
+├── Question*.ipynb
+├── readme.md
+├── requirements.txt
+```
+
 
 Overall, Lab 2 strengthens students’ understanding of **distributed data processing** with Spark. Through practical exercises, students gain hands-on skills in:
 
