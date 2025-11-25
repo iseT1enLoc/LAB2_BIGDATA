@@ -1,4 +1,4 @@
-# **DS200 – Lab 2 Summary (≈500 Words)**  
+# **DS200 – Lab 2**  
 ### **Lecture:** Nguyen Hieu Nghia  
 ### **Student:** Nguyen Vo Tien Loc – 22520792  
 
@@ -20,6 +20,13 @@ Question 4: Analyze Ratings by Age Group
 Question 5: Analyze Ratings by Occupation of Users
 
 Question 6: Analyze Ratings by Time
+
+## **Guidance**
+
+This github repository can be read by branch. Branch name bai1, bai2, bai3, bai4, bai5, bai6 stand for 6 questions in the lab. For each branch I setup Question*.ipynb for the solution.
+```
+git clone 
+```
 
 ## **Conclusion**
 
