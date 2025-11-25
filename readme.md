@@ -52,7 +52,7 @@ git checkout bai1
 Please adding data folder by contacting me via email locnvt.it@gmail.com.
 Expected folder structure for each branch:
 
-# Format 2 (indented):
+# Folder structure:
 ```
 LAB2_BIGDATA/
 ├── .gitignore
