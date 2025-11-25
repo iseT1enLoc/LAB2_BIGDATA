@@ -1,4 +1,10 @@
 # **DS200 – Lab 2**  
+<p align="center" style="background-color: white; padding: 10px;">
+  <a href="https://www.uit.edu.vn" target="_blank">
+    <img src="media/uit.png" alt="VNUHCM - UIT Logo" style="background-color: white;">
+  </a>
+</p>
+
 ### **Lecture:** Nguyen Hieu Nghia  
 ### **Student:** Nguyen Vo Tien Loc – 22520792  
 
